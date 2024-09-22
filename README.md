@@ -1,4 +1,4 @@
-# reg
+# Reg
 
 A new Flutter project.
 
